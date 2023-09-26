@@ -3,4 +3,4 @@ Full-featured Music Player with play, pause, previous & next button.
 It shows the song and Artist name.
 It also has a Rotating Album Art.
 
-Live Link - https://rotating-music-player.netlify.app/
+Live Link - https://songs-album.netlify.app/
